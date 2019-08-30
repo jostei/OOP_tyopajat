@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"tyokalut.toteutukset","l":"Hiomakone"},{"p":"tyokalut.toteutukset","l":"Kirves"},{"p":"tyokalut","l":"Ladattava"},{"p":"tyokalut.toteutukset","l":"Puukko"},{"p":"tyokalut.toteutukset","l":"Sahkosaha"},{"p":"tyokalut","l":"Teroitettava"},{"p":"tyokalut","l":"Tyokalu"},{"p":"kalupakki","l":"Tyokalupakki"},{"p":"tyokalut.toteutukset","l":"Vasara"}]
